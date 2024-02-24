@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Luis Felipe Graciolli</string>
+    <string name="title">Android developer</string>
+    <string name="email">luisfelipegraciolli@gmail.com</string>
+    <string name="github">\@luisfelipegraciolli/</string>
+    <string name="about_me">
+        "I am a computer science student from Brazil, Rio de Janeiro. Currently learning Mobile Development."
+    </string>
+</resources>
