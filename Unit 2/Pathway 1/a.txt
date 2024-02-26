@@ -1,0 +1,1 @@
+This pathway was mainly doing fundamentals in kotlin, thing like OOP and Functional Programming were practiced
